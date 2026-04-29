@@ -4,7 +4,7 @@ Machine learning web application that predicts house prices using housing featur
 
 ## Live Demo
 
-Paste your Streamlit app link here
+https://house-price-prediction-crzjr2o3qgwuwnuhqerkgo.streamlit.app/
 
 ## Features
 
@@ -29,4 +29,4 @@ Paste your Streamlit app link here
 
 ## Author
 
-Anwar Alkubati
+Anwar Abdulkareem
